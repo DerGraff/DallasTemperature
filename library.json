@@ -30,7 +30,11 @@
   ],
   "dependencies":
   {
-    "paulstoffregen/OneWire": "^2.3.5"
+    {
+      "name": "OneWire",
+      "version": "https://github.com/DerGraff/OneWire.git"
+      
+    },
   },
   "version": "3.11.0",
   "frameworks": "arduino",
