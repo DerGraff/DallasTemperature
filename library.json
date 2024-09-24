@@ -32,7 +32,7 @@
   [
     {
       "name": "OneWire",
-      "version": "https://github.com/DerGraff/OneWire_2.git"
+      "version": "https://github.com/PaulStoffregen/OneWire.git"
       
     }
   ],
